@@ -1,1 +1,1 @@
-
+print("ome vinayaka")
